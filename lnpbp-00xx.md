@@ -2,15 +2,12 @@
 ```
 LNPBP: 000xx
 Vertical: Smart contracts
-Title: Universal short Bitcoin identifiers for blocks, transactions and
-       transaction inputs & outputs
-Author: Dr Christian Decker <decker.christian@gmail.com>,
-        Dr Maxim Orlovsky <orlovsky@protonmail.ch>
-Comments-URI: https://github.com/LNP-BP/lnpbps/issues/<____>
+Title: Universal Loans for RGB Network 
+Author: Rsync (22388o) <arealayer@gmail.com>
 Status: Proposal
 Type: Standards Track
-Created: 2020-02-17
-License: CC0-1.0
+Created: 2023-01-30
+License: MIT license
 ```
 
 - [Abstract](#abstract)
