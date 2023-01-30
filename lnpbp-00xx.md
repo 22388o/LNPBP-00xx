@@ -5,7 +5,7 @@ Vertical: Smart contracts
 Title: Universal Loans for RGB Network 
 Author: Rsync (22388o) <arealayer@gmail.com>
 Status: Proposal
-Type: Standards Track
+Type: Informational
 Created: 2023-01-30
 License: MIT license
 ```
