@@ -28,7 +28,7 @@ License: MIT license
 
 ## Abstract
 
-
+The proposal allow interaction level between RGB protocol and Discreet Log Contracts over Lightning Network 
 
 ## Background
 
