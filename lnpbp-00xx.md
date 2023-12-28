@@ -2,11 +2,11 @@
 ```
 LNPBP: 000xx
 Vertical: Smart contracts
-Title: Universal Loans for RGB Network 
-Author: Rsync (22388o) <arealayer@gmail.com>
+Title: DLCs for RGB protocol
+Author: Rsync 
 Status: Proposal
 Type: Informational
-Created: 2023-01-30
+Created: 2024-01-01
 License: MIT license
 ```
 
